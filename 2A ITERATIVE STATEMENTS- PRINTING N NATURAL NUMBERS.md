@@ -16,8 +16,8 @@ To print all integers from a given starting number to an ending number using a l
 ### 🧾 Program
 
 ```python
-#Reg.NO
-#Name
+#Reg.NO- 212223060145
+#Name- Madhumitha V
 a=int(input())
 b=int(input())
 for i in range (a, b+ 1):
@@ -25,10 +25,8 @@ for i in range (a, b+ 1):
     
 ```
 ### OUTPUT
-```
 <img width="737" height="539" alt="{8DEA2E60-A6D9-462B-9C86-95009EEF92E5}" src="https://github.com/user-attachments/assets/2a9a2827-1bb4-425d-9d5c-6a8785706c14" />
 
-```
 ### RESULT
 The program displays all integers from `m` to `n`, each on a new line.
 
