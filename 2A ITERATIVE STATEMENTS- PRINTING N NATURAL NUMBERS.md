@@ -3,7 +3,6 @@
 
 ###  Aim
 To print all integers from a given starting number to an ending number using a loop.
----
 
 ###  Algorithm
 
